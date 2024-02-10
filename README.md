@@ -1,3 +1,5 @@
+<p align="center"><img alt="logo Micu" src="https://github.com/femcodersclub/femcodersclub/assets/158848998/8ebdaac2-72af-4de1-b2f1-2c02a74ce4d0"></p>
+
 ![image](https://github.com/femcodersclub/femcodersclub/assets/158848998/8ebdaac2-72af-4de1-b2f1-2c02a74ce4d0)
 
 
