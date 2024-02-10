@@ -1,8 +1,6 @@
 <p align="center"><img alt="logo Micu" src="https://github.com/femcodersclub/femcodersclub/assets/158848998/8ebdaac2-72af-4de1-b2f1-2c02a74ce4d0"></p>
 
-#FemCoders Club
-
-## Propósito
+## FemCoders Club
 
 Somos   un   pequeño   pero   poderoso   grupo   de   mujeres,   diverso   en talentos y experiencias únicas. 
 Juntas, nos hemos propuesto construir los cimientos para espacios seguros donde podamos crecer, tanto a nivel   personal   como   profesional.   
